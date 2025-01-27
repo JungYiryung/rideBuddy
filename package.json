@@ -1,0 +1,22 @@
+{
+  "name": "ridebuddy_personal",
+  "version": "1.0.0",
+  "description": "\"이것저것 해보는 곳\"",
+  "main": "validateRegx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JungYiryung/rideBuddy.git"
+  },
+  "author": "\"정이령\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JungYiryung/rideBuddy/issues"
+  },
+  "homepage": "https://github.com/JungYiryung/rideBuddy#readme",
+  "dependencies": {
+    "stream-adventure": "^4.3.2"
+  }
+}
